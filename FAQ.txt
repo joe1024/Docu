@@ -40,3 +40,5 @@ TODO
 FAQ :
 
 On host sur nos machines OU on utilise un WebServer du cloud (Amazon, Azure...)
+
+  --Si on peut subvenir à now besoin sur nos machine, serait peut-etre mieux de faire ca, ca va nous econimiser le temps de toujours uploader notre site. AUssi ca risque d'etre plus fiable si la connection internet debarque.
